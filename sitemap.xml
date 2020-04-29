@@ -3,31 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ctsoni.github.io/posts/</loc>
-    <lastmod>2020-04-30T04:10:26+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ctsoni.github.io/tags/</loc>
-    <lastmod>2020-04-30T04:10:26+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ctsoni.github.io/posts/tes-2/</loc>
-    <lastmod>2020-04-30T04:10:26+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ctsoni.github.io/tags/untagged/</loc>
-    <lastmod>2020-04-30T04:10:26+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ctsoni.github.io/posts/tes/</loc>
-    <lastmod>2020-04-30T03:58:48+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ctsoni.github.io/</loc>
     <lastmod>2020-04-30T03:14:35+07:00</lastmod>
   </url>
@@ -44,6 +19,16 @@
   
   <url>
     <loc>https://ctsoni.github.io/posts/halo-dunia/</loc>
+    <lastmod>2020-04-30T03:14:24+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ctsoni.github.io/posts/</loc>
+    <lastmod>2020-04-30T03:14:24+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ctsoni.github.io/tags/</loc>
     <lastmod>2020-04-30T03:14:24+07:00</lastmod>
   </url>
   
