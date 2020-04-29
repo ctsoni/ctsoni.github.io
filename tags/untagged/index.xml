@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 30 Apr 2020 03:58:48 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 04:10:26 +0700</lastBuildDate>
     
 	<atom:link href="https://ctsoni.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tes 2</title>
+      <link>https://ctsoni.github.io/posts/tes-2/</link>
+      <pubDate>Thu, 30 Apr 2020 04:10:26 +0700</pubDate>
+      
+      <guid>https://ctsoni.github.io/posts/tes-2/</guid>
+      <description>tes aja sih</description>
+    </item>
     
     <item>
       <title>Tes</title>
